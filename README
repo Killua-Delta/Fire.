@@ -1,0 +1,11 @@
+# Fire.
+Bot open source en BDScript (BDFD)
+Vas dans "statut" pour ajouter un ou plusieurs status.
+Je te conseille de faire un statut type "Type <prefix>help for commands" et {Regarde}"$serverCount serveurs 👀"
+Fin tu vois le délire...
+Maintenant, vas dans "variables" et tu en créer plusieurs:
+- Mute Role
+Value = 
+- lockdown 
+Value = III
+Voilaaa
